@@ -8,10 +8,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshad-ul-karim)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reshad-Ul-Karim)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshad.ul.karim@g.bracu.ac.bd)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801703866084)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-ubaida-20b745212/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ubaida01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuubaida780@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801792964511)
 
 </div>
 
@@ -23,18 +23,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Computer Science Undergraduate** at BRAC University  
-🤖 **AI & Robotics Specialist** with focus on autonomous systems  
-🏆 **Mars Rover Team Core Member** - URC 2024 Top 38 Globally  
-📍 **Location:** Dhaka, Bangladesh  
-📊 **CGPA:** 3.9/4.00  
+🎓 **Information and Communication Technology Undergraduate** at Islamic University  
+🤖 **AI Enthusiast** with focus on autonomous systems  
+🏆 **IU Correspondent** - Bangladesh Sangbad Sangstha (BSS)  
+📍 **Location:** Kushtia, Bangladesh    
 
 ### 🚀 What I'm About:
-- 🔬 Advancing **Explainable AI** and **Machine Learning**
-- 🤖 Building **Autonomous Systems** and **Computer Vision** solutions
-- 🛠️ Designing **PCB circuits** and **Microcontroller** systems
-- 📝 Publishing research in **IEEE conferences** and journals
-- 🎯 Turning **research prototypes** into **production solutions**
+- 🔬 Diving into **AI** and **Machine Learning**
 
 ---
 
@@ -42,9 +37,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reshad-Ul-Karim/Reshad-Ul-Karim/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reshad-Ul-Karim/Reshad-Ul-Karim/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reshad-Ul-Karim/Reshad-Ul-Karim/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubaida01/ubaida01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubaida01/ubaida01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ubaida01/ubaida01/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -101,16 +96,14 @@
 <tr>
 <td>
 
-**🎓 BSc. Computer Science and Engineering**  
-📍 BRAC University (2022 - Present)  
-📊 **CGPA: 3.9/4.00**  
-🏆 Dean's List & Vice Chancellor's List (2023-2024)
+**🎓 B.Sc. in Information and Communication Technology**  
+📍 Islamic University (2023 - Present)   
 
 </td>
 <td>
 
 **🎓 Higher Secondary Certificate**  
-📍 Notre Dame College, Dhaka (2019-2022)  
+📍 N.S Govt. College, Natore (2018-2020)  
 📊 **GPA: 5.00/5.00**
 
 </td>
