@@ -4,7 +4,7 @@
   
 # 👋 Hi, I'm Abu Ubaida
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Computer+Science+Undergraduate;AI+%26+Robotics+Engineer;Published+IEEE+Researcher;Mars+Rover+Team+Member;Machine+Learning+Developer;Explainable+AI+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Information+and+Communication+Technology+Undergraduate;AI+%26+ML+Enthusiast;IU+Correspondent+BSS;Problems+Solver+at+Kaggle;Flutter+App+Development;Unity+Game+Developer" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
