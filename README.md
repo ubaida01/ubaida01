@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Information and Communication Technology Undergraduate** at Islamic University  
+🎓 **ICT Undergraduate** at Islamic University  
 🤖 **AI Enthusiast** with focus on autonomous systems  
 🏆 **IU Correspondent** - Bangladesh Sangbad Sangstha (BSS)  
 📍 **Location:** Kushtia, Bangladesh    
