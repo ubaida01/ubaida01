@@ -25,14 +25,12 @@
 
 ## `$ whoami`
 
-```python
-class AbuUbaida:
+class Abu Ubaida:
     name       = "Abu Ubaida"
     location   = "Kushtia, Bangladesh 🇧🇩"
     education  = "B.Sc. ICT — Islamic University (2023–Present)"
     role       = "IU Correspondent @ Bangladesh Sangbad Sangstha (BSS)"
     focus      = ["Machine Learning", "Deep Learning", "Computer Vision"]
-    tools      = ["Python", "TensorFlow", "PyTorch", "scikit-learn"]
     currently  = "Diving deep into autonomous AI systems"
     goal       = "Build technology that creates real-world impact"
     motto      = "Learning new tech. Matching the generation. Always."
