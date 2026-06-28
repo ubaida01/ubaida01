@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1H8lKnDVf_-3iwlVna91iErTX-Pnx38Vc/view?usp=drive_link type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abu%20Ubaida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20ICT%20Undergraduate%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Abu%20Ubaida&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20ICT%20Undergraduate%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 </div>
 
@@ -25,12 +25,14 @@
 
 ## `$ whoami`
 
-class Abu Ubaida:
+```python
+class AbuUbaida:
     name       = "Abu Ubaida"
     location   = "Kushtia, Bangladesh 🇧🇩"
     education  = "B.Sc. ICT — Islamic University (2023–Present)"
     role       = "IU Correspondent @ Bangladesh Sangbad Sangstha (BSS)"
     focus      = ["Machine Learning", "Deep Learning", "Computer Vision"]
+    tools      = ["Python", "TensorFlow", "PyTorch", "scikit-learn"]
     currently  = "Diving deep into autonomous AI systems"
     goal       = "Build technology that creates real-world impact"
     motto      = "Learning new tech. Matching the generation. Always."
